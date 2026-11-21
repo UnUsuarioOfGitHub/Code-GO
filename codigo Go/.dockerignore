@@ -1,0 +1,10 @@
+.git
+.env
+*.jtl
+jmeter.log
+test-results
+results
+captures
+report-*
+api
+api.exe

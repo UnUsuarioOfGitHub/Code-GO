@@ -1,0 +1,9 @@
+.env
+/api
+/api.exe
+/results/
+/test-results/
+/captures/
+/report-*/
+*.jtl
+jmeter.log
